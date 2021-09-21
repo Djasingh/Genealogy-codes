@@ -1,3 +1,3 @@
 # Genealogy_codes
 
-Codes Written for web-scarping form different websites
+Codes Written for web-scarping in python
