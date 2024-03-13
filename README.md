@@ -1,3 +1,3 @@
 # Academic Genealogy Graph Preprocessing Codes
 
-Codes Written for web-scarping, Preprocessing academic genealogy tree, Wikidata information extraction, Python with neo4j, DBLP parser, Web-search using google search Api etc.
+Codes Written for web-scarping, Preprocessing Academic Genealogy Tree, Wikidata Information Extraction, Python with Neo4j, DBLP Parser, Web-search using Google Search Api etc.
